@@ -259,17 +259,9 @@ h4 {
   display: inline-block;
 }
 
-.waya-logo {
-  padding: 25px 25px;
-  width: 10%;
-  height: 10%;
-  display: inline-block;
-}
-
 .waya-text {
   display: inline-block;
   float: right;
-  padding-top: 35px;
   padding-right: 10%;
  margin-bottom: 25px;
 }
