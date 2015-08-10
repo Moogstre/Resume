@@ -262,7 +262,7 @@ h4 {
 .waya-text {
   display: inline-block;
   float: right;
-  padding-right: 10%;
+  padding-right: 5%;
  margin-bottom: 25px;
 }
 
@@ -270,18 +270,10 @@ h4 {
   display: inline-block;
 }
 
-.fpgc-logo {
-  padding: 25px 25px;
-  width: 10%;
-  height: 10%;
-  display: inline-block;
-}
-
 .fpgc-text {
   display: inline-block;
   float: right;
-  padding-top: 35px;
-  padding-right: 10%;
+  padding-right: 5%;
 }
 
 .certification{
